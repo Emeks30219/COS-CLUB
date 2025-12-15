@@ -69,4 +69,27 @@ idoma =  {
     "God": "Owoicho"
 }
 
+Hausa ={
+    "water" : "ruwa",
+    "food" :"abinci",
+    "house": "gida",
+    "person": "mutum",
+    "child" : "yaro",
+    "girl" : "yarinya",
+    "money" : "kudi",
+    "work" : "aiki",
+    "road" : "hanaya",
+     "book" : "littafi",
+    "market" : "kasuwa",
+    "to see" : "gani",
+    "to listen" : "saurara",
+    "speech/talk" : "magana",
+    "time" : "lokaci",
+    "day/sun" : "rana",
+    "night" : "dare",
+    "walking/journey" : "tafiya",
+    "heart/mind" : "zuciya"
+}
+
+
 
