@@ -23,5 +23,29 @@ yoruba = {
        "road" : "ono",
 }
 
+igbo = {
+    "water": "mmiri",
+    "sun": "anyanwu",
+    "love": "ifuru",
+    "food": "nri",
+    "friend": "enyi",
+    "day": "ubochi",
+    "fire" : "oku",
+    "night": "abali",
+    "moon /month": "onwa",
+    "house": "ulo",
+    "dog": "nkita",
+    "please": "biko",
+    "river":"osimiri",
+    "mountain": "ugwu",
+    "peace": "udo",
+    "lie": "asi",
+    "truth": "eziokwu",
+    "medicine": "ogwu",
+    "head":"isi",
+    "thank you":"daalu"
+}
+
+
 
 
