@@ -46,6 +46,27 @@ igbo = {
     "thank you":"daalu"
 }
 
-
+idoma =  {
+    "hello": "awo",
+    "welcome": "awo ole",
+    "thank you": "ojale",
+    "please": "kpo kpo",
+    "yes": "ee",
+    "no": "ko",
+    "good morning": "awo oni",
+    "good afternoon": "awo ocha",
+    "good evening": "awo olo",
+    "how are you": "ole kpa?",
+    "I am fine": "m kpa",
+    "name": "nyian",
+    "water": "ami",
+    "food": "inyam",
+    "house": "owa",
+    "friend": "ogele",
+    "love": "iyolo",
+    "money": "owo",
+    "work": "ukpa",
+    "God": "Owoicho"
+}
 
 
