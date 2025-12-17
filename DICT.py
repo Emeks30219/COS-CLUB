@@ -91,5 +91,30 @@ Hausa ={
     "heart/mind" : "zuciya"
 }
 
+#  All dictionaries in one big dictionary
+languages = {
+    "yoruba": yoruba,
+    "hausa": hausa,
+    "igbo": igbo,
+    "idoma": idoma
+}
+
+choice = input("Choose a language: ").lower()
+if choice not in languages:
+    print("Language not found.")
+    exit()
+
+word = input("Enter an English word: ").lower()
+
+translation = languages[choice].get(word)
+
+if translation:
+    print("Translation:", translation)
+else:
+    print("Word not found in dictionary.")
+
+
+
+
 
 
