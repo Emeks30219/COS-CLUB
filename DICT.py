@@ -69,7 +69,7 @@ idoma =  {
     "God": "Owoicho"
 }
 
-Hausa ={
+hausa ={
     "water" : "ruwa",
     "food" :"abinci",
     "house": "gida",
@@ -112,6 +112,7 @@ if translation:
     print("Translation:", translation)
 else:
     print("Word not found in dictionary.")
+
 
 
 
