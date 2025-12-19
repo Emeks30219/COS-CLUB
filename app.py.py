@@ -1,0 +1,23 @@
+mwaghavul = {"goodmorning": "teerianga",
+             "God": "naan",
+             "food": "biise",
+             "welcome": "mwale",
+             "cane": "kam",
+             "bible": "po naan",
+             "song": "koghg",
+             "chair": "bi tong",
+             "food": "bisee",
+             "medicine": "yen",
+             "cloud": "nluu",
+             "please": "kusugk",
+             "salt": "kiin",
+             "run": "zsu",
+             "come": "ji",
+             "go": "so",
+             "friend": "shaarr",
+             "money": "shagal",
+             "how are you": "aaere",
+             "God is good": "da naaan diret",
+             "what is your name?": "suum fugha a wee"}
+print(mwaghavul)
+
