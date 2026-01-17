@@ -119,7 +119,8 @@ languages = {
     "yoruba": yoruba,
     "hausa": hausa,
     "igbo": igbo,
-    "idoma": idoma
+    "idoma": idoma,
+   "mwaghavul":mwaghavul
 }
 
 choice = input("Choose a language: ").lower()
