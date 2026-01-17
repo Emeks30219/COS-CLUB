@@ -126,7 +126,7 @@ languages = {
 st.set_page_config(page_title="Nigerian Language Translator", page_icon="")
 
 st.title(" English → Nigerian Language Translator")
-st.write("Translate English words into Yoruba, Igbo, Hausa, or Idoma")
+st.write("Translate English words into Yoruba, Igbo, Hausa,mwaghavul, or Idoma")
 
 st.divider()
 
