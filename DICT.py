@@ -123,6 +123,35 @@ languages = {
    "mwaghavul":mwaghavul
 }
 
+st.set_page_config(page_title="Nigerian Language Translator", page_icon="")
+
+st.title(" English → Nigerian Language Translator")
+st.write("Translate English words into Yoruba, Igbo, Hausa, or Idoma")
+
+st.divider()
+
+
+language_choice = st.selectbox(
+    "Choose a language",
+    list(languages.keys())
+)
+
+
+word = st.text_input("Enter an English word")
+
+# Translate button
+if st.button("Translate"):
+    if word.strip() == "":
+        st.warning("Please enter a word.")
+    else:
+        translation = languages[language_choice].get(word.lower())
+        if translation:
+            st.success(f"**Translation:** {translation}")
+        else:
+            st.error("Word not found in the dictionary.")
+
+st.divider()
+st.caption("Built using streamlit.")
 
 
 
