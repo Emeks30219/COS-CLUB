@@ -72,7 +72,6 @@ Each group member was responsible for one language dictionary of 20 words:
 | Member 4 | Idoma |
 | Member 5 | Mwaghavul |
 
-> Replace "Member 1–5" with actual names.
 
 ---
 
